@@ -1,1 +1,2 @@
-# poupravene-reseni-navrhu-db
+# Poupravené řešení návrhu DB
+Tento repozitář obsahuje poupravené vzorové řešení k návrhu DB (procvičování k PMZ).<br><br>Poupravené řešení jsou podle mě a tudíž i ne perfektně optimální podle ostatních.<br><br>Poupravené řešení obsahujou chybějící "kdy byla služba nasazena a jaký režim na nich běží".<br><br>Každý soubor obsahuje první dvě čísla v názvu. Tyto čísla označujou číslo úlohy, ke které patří.
