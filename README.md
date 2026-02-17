@@ -1,0 +1,1 @@
+# poupravene-reseni-navrhu-db
